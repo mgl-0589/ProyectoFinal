@@ -13,7 +13,7 @@
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
     "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^8.0.6",
     "express-mysql-session": "^2.1.0",
     "express-session": "^1.17.0",
     "express-validator": "^6.3.1",
@@ -24,6 +24,6 @@
     "timeago.js": "^4.0.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^3.1.14"
   }
 }
